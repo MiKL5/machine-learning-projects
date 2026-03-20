@@ -1,4 +1,4 @@
-# Prédiction des prix immobiliers à Melbourne avec apprentissage automatique <a href="../../"><img align="right" src="https://github.com/MiKL5/Python/blob/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# Prédiction des prix immobiliers à Melbourne avec apprentissage automatique <a href="../../"><img align="right" src="https://github.com/MiKL5/python/blob/main/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3.13-blue?style=flat&logo=python&logoColor=FFD43B) 

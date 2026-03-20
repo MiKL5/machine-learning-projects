@@ -1,4 +1,4 @@
-# Détection de spam dans les messages texte avec apprentissage automatique <a href="../../"><img align="right" src="https://github.com/MiKL5/Python/blob/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# Détection de spam dans les messages texte avec apprentissage automatique <a href="../../"><img align="right" src="https://github.com/MiKL5/python/blob/main/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 
 <div align="center">
 
