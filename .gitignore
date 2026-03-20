@@ -4,7 +4,7 @@
 ._readme.md
 ._.gitignore
 ._.vscode
-.vscode/._settings.json
+.vscode/
 assets/._atomicML.png
 projects/._house
 projects/._melbourne
