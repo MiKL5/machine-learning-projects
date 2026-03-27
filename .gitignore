@@ -236,3 +236,5 @@ projects/clusteringUsingABayesianGaussianMixtureModel/._BayesianGaussianMixtureM
 projects/clusteringUsingABayesianGaussianMixtureModel/BayesianGaussianMixtureModel.py
 projects/dimensionReductionUsingLDA-SVD/._LDA-SVD.py
 projects/dimensionReductionUsingLDA-SVD/LDA-SVD.py
+projects/.DS_Store
+.DS_Store
