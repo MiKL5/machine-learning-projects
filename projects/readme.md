@@ -1,4 +1,4 @@
-## **Projets**<a href="../"><img src="../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a>
+## **Projets**<a href="https://github.com/MiKL5/machine-learning-projects"><img src="../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a>
 > ### **Apprentissage supervisé**
 1. [Classificateur de fruit](fruitClassifier)
 2. [Prédire le score de dépences des clients](spendingScore)
