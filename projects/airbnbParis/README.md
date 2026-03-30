@@ -1,5 +1,4 @@
-# 🏠 KNN — Prédiction de prix de logements Airbnb Parisiens<a href="../../"><img src="../../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a>
-> ### **Apprentissage supervisé**
+# 🏠 KNN — Prédiction de prix de logements Airbnb Parisiens<a href="https://github.com/MiKL5/machine-learning-projects"><img align="right" src="https://github.com/MiKL5/python/blob/main/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 <div align="cetner">
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=plastic&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=plastic&logo=pandas&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-K--Nearest%20Neighbors-brightgreen?style=plastic&logo=scikit-learn&logoColor=white) ![Dataset](https://img.shields.io/badge/Dataset-Airbnb%20Paris-FF5A5F?style=plastic&logo=airbnb&logoColor=white)
@@ -117,7 +116,6 @@ jupyter notebook aribnbParisPricing.ipynb
 * 🔢 Calcul vectorisé avec `numpy` (`np.abs`)
 * 💰 Nettoyage de données monétaires (suppression de `$` et `,`)
 * 🎲 Permutation aléatoire du dataset (`np.random.permutation`)
-
 * ✂️ Séparation train/test pour éviter le surapprentissage
 * ⚖️ Normalisation Min-Max des features
 * 🔍 Optimisation d'hyperparamètre (k, n_estimators) par courbe du coude

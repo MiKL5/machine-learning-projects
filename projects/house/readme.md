@@ -1,4 +1,4 @@
-<h1><a href="../../"><img align="right" src="https://github.com/MiKL5/python/blob/main/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a><b>Prédiction du prix des maisons en Californie – Modèles<hr>
+<h1><a href="https://github.com/MiKL5/machine-learning-projects"><img align="right" src="https://github.com/MiKL5/python/blob/main/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a><b>Prédiction du prix des maisons en Californie – Modèles<hr>
 Random Forest et Arbre de Décision</b></h1>
 <div align="center">
 
