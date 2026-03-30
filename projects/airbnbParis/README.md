@@ -1,4 +1,5 @@
-# 🏠 KNN — Prédiction de prix de logements Airbnb Parisiens
+# 🏠 KNN — Prédiction de prix de logements Airbnb Parisiens<a href="../../"><img src="../../assets/atomicML.png" alt="Machine Learning" align="right" height="64px"></a>
+> ### **Apprentissage supervisé**
 <div align="cetner">
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=plastic&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=plastic&logo=pandas&logoColor=white) ![Machine Learning](https://img.shields.io/badge/ML-K--Nearest%20Neighbors-brightgreen?style=plastic&logo=scikit-learn&logoColor=white) ![Dataset](https://img.shields.io/badge/Dataset-Airbnb%20Paris-FF5A5F?style=plastic&logo=airbnb&logoColor=white)

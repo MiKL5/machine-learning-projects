@@ -16,6 +16,7 @@
 14. [Le vaisseau spacial Titanic](spacecraft)
 15. [Prédire le prix de l'action Tesla](tesla)
 16. [Prédire les performances des étudiants](studentPerformance)
+17. [Prédire le prix des airbnb parisiens](airbnbParis)
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](netflix)
 > ### **Apprentissage non supervisé**
