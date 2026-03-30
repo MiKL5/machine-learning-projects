@@ -20,6 +20,7 @@ Les phénomènes étudiés peuvent être considérés comme des systèmes qui, e
 13. [Le vaisseau spacial Titanic](projects/spacecraft)
 14. [Prédire le prix de l'action Tesla](projects/tesla)
 15. [Prédire les performances des étudiants](projects/studentPerformance)
+16. [Prédire le prix des airbnb parisiens](projects/airbnbParis)
 <!--<kbd>_Soon_</kbd>-->
 > ### **Apprentissage semi-supervisé**
 1. [Netflix](projects/netflix)  
