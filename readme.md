@@ -47,8 +47,8 @@ Les phénomènes étudiés peuvent être considérés comme des systèmes qui, e
 
 <hr><div align="center"><h2> 🔗 Disciplines connexes</h2></div>
 
-<a href="https://github.com/MiKL5/Business_Intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/main/assets/atomicBi.png" height="18px" align="center">Business Intelligence</a>  
-<a href="https://github.com/MiKL5/DataScience/tree/master/machineLearning/"><img src="https://github.com/MiKL5/DataScience/blob/main/assets/atomicDs.png" height="18px" align="center">Data Science</a>  
-<a href="https://github.com/MiKL5/Artificial_Intelligence/"><img src="https://github.com/MiKL5/Artificial_Intelligence/blob/main/assets/images/atomicAi.png" height="18px" align="center">Intelligence artificielle</a>  
+<a href="https://github.com/MiKL5/business-intelligence/"><img src="https://github.com/MiKL5/Business_Intelligence/blob/main/assets/atomicBi.png" height="18px" align="center">Business Intelligence</a>  
+<a href="https://github.com/MiKL5/data-science-projects/"><img src="https://github.com/MiKL5/DataScience/blob/main/assets/atomicDs.png" height="18px" align="center">Data Science</a>  
+<a href="https://github.com/MiKL5/artificial-intelligence/"><img src="https://github.com/MiKL5/Artificial_Intelligence/blob/main/assets/images/atomicAi.png" height="18px" align="center">Intelligence artificielle</a>  
 <!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
