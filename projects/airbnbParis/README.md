@@ -10,9 +10,12 @@
 ---
 
 ## 📁 Structure du projet
-```
-├── knn_paris.ipynb          # Notebook 1 — Introduction au KNN & distance euclidienne
-├── knn_function.ipynb       # Notebook 2 — Fonction predict_price() & prédictions
+```sh
+├── knn_paris.ipynb                 # Notebook 1 — Introduction au KNN & distance euclidienne
+├── knn_function.ipynb              # Notebook 2 — Fonction predict_price() & prédictions
+├── airbnbParisPricing.ipynb        # Notebook principal
+├── random_forest_airbnb.pkl        # Modèle Random Forest sauvegardé
+├── random_forest_airbnb_meta.pkl   # Métadonnées du modèle
 └── README.md
 ```
 
@@ -95,7 +98,7 @@ Capacité d'accueil | Prix prédit
 ### Installation des dépendances
 
 ```bash
-pip install numpy pandas jupyter
+pip install -r requirements.txt
 ```
 
 ### Lancer les notebooks
@@ -103,6 +106,7 @@ pip install numpy pandas jupyter
 ```bash
 jupyter notebook knn_paris.ipynb
 jupyter notebook knn_function.ipynb
+jupyter notebook aribnbParisPricing.ipynb
 ```
 
 ## 📚 Concepts abordés
@@ -113,3 +117,12 @@ jupyter notebook knn_function.ipynb
 * 🔢 Calcul vectorisé avec `numpy` (`np.abs`)
 * 💰 Nettoyage de données monétaires (suppression de `$` et `,`)
 * 🎲 Permutation aléatoire du dataset (`np.random.permutation`)
+
+* ✂️ Séparation train/test pour éviter le surapprentissage
+* ⚖️ Normalisation Min-Max des features
+* 🔍 Optimisation d'hyperparamètre (k, n_estimators) par courbe du coude
+* 📊 Métriques d'évaluation : MAE et RMSE
+* 🔁 Validation croisée à 5 plis (CV-5)
+* 🏆 Benchmarking multi-algorithmes
+* 🌲 Random Forest et importance des features
+* 💾 Sauvegarde de modèle avec `joblib`
